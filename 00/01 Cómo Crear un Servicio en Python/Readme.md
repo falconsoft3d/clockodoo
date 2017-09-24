@@ -46,3 +46,6 @@ if __name__ == '__main__':
 python deamon.py start
 python deamon.py stop
 ```
+
+4- Info
+http://www.elmundoenbits.com/2014/04/crear-daemon-servicio-python.html#.WccQ6X6GOV4
